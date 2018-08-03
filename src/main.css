@@ -1,0 +1,27 @@
+body {
+  background-color: azure;
+  border: solid;
+  align-content: center;
+}
+div {
+  width: relative;
+  background-color: powderblue;
+  padding: 50px 50px 50px 50px;
+  margin: 50px 50px 50px 50px;
+  text-align: center;
+}
+#inputToDo {
+  height: 20px;
+  width: 500px;
+}
+li {
+  padding: 5px 5px 5px 175px;
+  width: relative;
+  text-align: left;
+  list-style-type: none;
+  vertical-align:center;
+}
+.delete {
+  padding: 15px 5px 0px 5px;
+  vertical-align:bottom;
+}
